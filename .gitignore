@@ -1,0 +1,15 @@
+# Ignore Visual Studio  Project #
+###################
+*.user
+*.gpState
+*.suo
+bin
+obj
+/packages
+
+# Ignore Node & Bower
+###################
+node_modules
+build
+bower_components
+**/test/coverage
